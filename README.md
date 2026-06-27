@@ -1,4 +1,4 @@
-# review-tracker
+# code-review-issue-tracker
 
 A Claude Code skill that automatically tracks code review findings across sessions. When you ask Claude to review code, investigate a bug, or audit a module, it silently maintains a JSON log of every finding — and keeps a rolling `known-issues.json` so nothing falls through the cracks between sessions.
 
