@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "review-tracker",
+  "version": "0.1.0",
+  "description": "Automatically tracks code review findings and known issues across sessions",
+  "author": {
+    "name": "Brian Lundin",
+    "email": "brian.lundin@austinstone.org"
+  },
+  "skills": [
+    "./"
+  ]
+}
